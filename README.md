@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-<!--
-**LadingTaken/LadingTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Nedim Huric, a software engineer student based in Australia.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine. I turn my “one day I’ll build this” ideas into real code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I’ll build it and ship it.
+
+My main tech stack is C, javascript, typescript, nodejs, express and git . My favorite tools are figma, and goodnotes on my iPad.
+
+
+#### Fun Facts:
+
+* I love travelling and discovering new places
+* I don’t like coffee 
+* **Hobbies:** hiking, gym, building things
